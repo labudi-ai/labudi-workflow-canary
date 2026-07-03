@@ -24,6 +24,20 @@ crashed mid-scenario.
 See `labudi-documents/design/2026-05-23-executor-contract-architecture.md`
 for the broader context.
 
+## Health check
+
+Run the canary health check with:
+
+```sh
+scripts/health.sh
+```
+
+It prints a single status line in the form:
+
+```text
+canary @sickr/workflow-canary <ISO-timestamp>
+```
+
 ## SICKR simulation marker
 
 - ticket: `ticket_sim-deac8515-d8bd-4aa2-87fd-9c7b1e9cd2e2`
