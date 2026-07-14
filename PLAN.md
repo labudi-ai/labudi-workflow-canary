@@ -39,3 +39,11 @@
 - agent: `codex-001`
 - updated_at: `2026-07-03T18:54:35Z`
 - log_line: `2026-07-03T18:54:35Z | validate-pass | run_id=run-9a6e87c4037b`
+
+## SICKR simulation plan marker
+
+- ticket: `ticket_sim-20619036-132f-4360-80b7-25015b6bff08`
+- run_id: `run-81d81aa464cf`
+- agent: `claude-001`
+- updated_at: `2026-07-14T04:24:40Z`
+- log_line: `2026-07-14T04:24:40Z | validate-pass | run_id=run-81d81aa464cf`
